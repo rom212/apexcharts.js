@@ -534,7 +534,8 @@ rect.legend-mouseover-inactive,
 .apexcharts-canvas .apexcharts-reset-zoom-icon.apexcharts-selected svg,
 .apexcharts-canvas .apexcharts-selection-icon.apexcharts-selected svg,
 .apexcharts-canvas .apexcharts-zoom-icon.apexcharts-selected svg {
-  fill: #008ffb
+  /* fill: #008ffb */
+  fill: #f18af5
 }
 
 .apexcharts-theme-light .apexcharts-menu-icon:hover svg,
@@ -578,17 +579,19 @@ rect.legend-mouseover-inactive,
 }
 
 .apexcharts-pan-icon svg {
-  fill: #fff;
+  /* fill: #fff; */
   stroke: #6e8192;
   stroke-width: 2
 }
 
 .apexcharts-pan-icon.apexcharts-selected svg {
-  stroke: #008ffb
+  /* stroke: #008ffb */
+  stroke: #f18af5
 }
 
 .apexcharts-pan-icon:not(.apexcharts-selected):hover svg {
-  stroke: #333
+  /* stroke: #333 */
+  stroke: #e214ea
 }
 
 .apexcharts-toolbar {
