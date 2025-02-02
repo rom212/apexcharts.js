@@ -579,7 +579,7 @@ rect.legend-mouseover-inactive,
 }
 
 .apexcharts-pan-icon svg {
-  /* fill: #fff; */
+  fill: #6e8192;
   stroke: #6e8192;
   stroke-width: 2
 }
