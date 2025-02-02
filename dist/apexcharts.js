@@ -13793,7 +13793,8 @@
           },
           stroke: {
             width: 1,
-            colors: ['#24292e']
+            // colors: ['#24292e'],
+            colors: ['#808080']
           },
           dataLabels: {
             enabled: false
