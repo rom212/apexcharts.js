@@ -544,7 +544,8 @@ rect.legend-mouseover-inactive,
 .apexcharts-theme-light .apexcharts-zoom-icon:not(.apexcharts-selected):hover svg,
 .apexcharts-theme-light .apexcharts-zoomin-icon:hover svg,
 .apexcharts-theme-light .apexcharts-zoomout-icon:hover svg {
-  fill: #333
+  fill: #333;
+  stroke: #e214ea  
 }
 
 .apexcharts-menu-icon,
