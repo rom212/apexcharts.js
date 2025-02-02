@@ -1144,7 +1144,8 @@ export const optionsPattern = {
                   title:
                     'Background color of the selection rect which is drawn when user drags on the chart',
                   type: 'color',
-                  default: '#24292e',
+                  // default: '#24292e',
+                  default: '#808080',
                 },
                 opacity: {
                   title: 'Opacity of background color of the selection rect',
