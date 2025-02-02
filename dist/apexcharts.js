@@ -12241,7 +12241,8 @@
               },
               stroke: {
                 width: 1,
-                color: '#24292e',
+                // color: '#24292e',
+                colors: '#808080',
                 opacity: 0.4,
                 dashArray: 3
               },

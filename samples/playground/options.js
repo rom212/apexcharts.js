@@ -1170,7 +1170,8 @@ export const optionsPattern = {
                 color: {
                   title: 'Colors of selection border',
                   type: 'color',
-                  default: '#24292e',
+                  // default: '#24292e',
+                  default: '#808080',
                 },
                 opacity: {
                   title: 'Opacity of selection border',
