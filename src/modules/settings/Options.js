@@ -319,7 +319,8 @@ export default class Options {
           type: 'x',
           // selectedPoints: undefined, // default datapoints that should be selected automatically
           fill: {
-            color: '#24292e',
+            // color: '#24292e',
+            colors: '#808080',
             opacity: 0.1,
           },
           stroke: {
